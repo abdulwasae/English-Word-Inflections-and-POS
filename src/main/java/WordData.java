@@ -1,7 +1,6 @@
-import java.util.ArrayList;
 
 /**
- * Created by Abdul Wasae on 19-Jul-16. cool
+ * Created by Abdul Wasae on 19-Jul-16.
  */
 public class WordData {
     private String wordInflection;

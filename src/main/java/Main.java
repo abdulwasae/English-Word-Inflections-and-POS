@@ -19,7 +19,7 @@ import java.util.Scanner;
 
 
 /**
- * Created by Abdul Wasae on 19-Jul-16. cool
+ * Created by Abdul Wasae on 19-Jul-16.
  */
 public class Main {
 
